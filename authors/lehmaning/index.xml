@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lehmaning on Running on Empty</title>
-    <link>https://lehmaning.github.io/blog/authors/lehmaning/</link>
+    <link>/authors/lehmaning/</link>
     <description>Recent content in Lehmaning on Running on Empty</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2023 Lehmaning
 </copyright>
-    <atom:link href="https://lehmaning.github.io/blog/authors/lehmaning/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/authors/lehmaning/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

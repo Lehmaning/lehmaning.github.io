@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Running on Empty</title>
-    <link>https://lehmaning.github.io/blog/authors/</link>
+    <link>/authors/</link>
     <description>Recent content in Authors on Running on Empty</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2023 Lehmaning
 </copyright>
     <lastBuildDate>Mon, 18 Dec 2023 03:13:25 +0800</lastBuildDate>
-    <atom:link href="https://lehmaning.github.io/blog/authors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lain</title>
-      <link>https://lehmaning.github.io/blog/authors/lain/</link>
+      <link>/authors/lain/</link>
       <pubDate>Mon, 18 Dec 2023 03:13:25 +0800</pubDate>
-      <guid>https://lehmaning.github.io/blog/authors/lain/</guid>
+      <guid>/authors/lain/</guid>
       <description>I love you all.</description>
     </item>
     <item>
       <title>World Fucker</title>
-      <link>https://lehmaning.github.io/blog/authors/world-fucker/</link>
+      <link>/authors/world-fucker/</link>
       <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://lehmaning.github.io/blog/authors/world-fucker/</guid>
+      <guid>/authors/world-fucker/</guid>
       <description>This world is full of bs. I&amp;rsquo;m trying to fuck but got disgusted.</description>
     </item>
     <item>
       <title>Lehmaning</title>
-      <link>https://lehmaning.github.io/blog/authors/lehmaning/</link>
+      <link>/authors/lehmaning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lehmaning.github.io/blog/authors/lehmaning/</guid>
+      <guid>/authors/lehmaning/</guid>
       <description>你好。</description>
     </item>
   </channel>
