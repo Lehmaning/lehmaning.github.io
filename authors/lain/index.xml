@@ -18,11 +18,11 @@
       <description>好像用来发布微博并不是很方便。</description>
     </item>
     <item>
-      <title>fish shell 的一些使用事项</title>
+      <title>fish shell 的一些注意事项</title>
       <link>/posts/fish-tips/</link>
       <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
       <guid>/posts/fish-tips/</guid>
-      <description>以下内容适用于 fish 3.6.4 版本。 集成工具 集成 starship、zoxide、carapace、nvm 等工具时，不建议直接写在 ~/.config/fish/config.fish 下，要用到模块化的思想！ 按习惯，</description>
+      <description>以下内容适用于 fish 3.6.4 版本。 集成工具 集成 starship 、zoxide、carapace、nvm 等工具时，不建议直接写在 ~/.config/fish/config.fish 下，要用到模块化的思想！ 按习惯，我会在 ~/.config/fish/conf.d 下创建</description>
     </item>
   </channel>
 </rss>
