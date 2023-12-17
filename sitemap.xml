@@ -2,49 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/authors/</loc>
+    <loc>https://lehmaning.github.io/blog/authors/</loc>
     <lastmod>2023-12-18T03:13:25+08:00</lastmod>
   </url><url>
-    <loc>/authors/lain/</loc>
+    <loc>https://lehmaning.github.io/blog/authors/lain/</loc>
     <lastmod>2023-12-18T03:13:25+08:00</lastmod>
   </url><url>
-    <loc>/mblog/</loc>
+    <loc>https://lehmaning.github.io/blog/mblog/</loc>
     <lastmod>2023-12-18T03:13:25+08:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://lehmaning.github.io/blog/</loc>
     <lastmod>2023-12-18T03:13:25+08:00</lastmod>
   </url><url>
-    <loc>/mblog/2023-12-18-031325/</loc>
+    <loc>https://lehmaning.github.io/blog/mblog/2023-12-18-031325/</loc>
     <lastmod>2023-12-18T03:13:25+08:00</lastmod>
   </url><url>
-    <loc>/tags/fish/</loc>
+    <loc>https://lehmaning.github.io/blog/tags/fish/</loc>
     <lastmod>2023-12-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/fish-tips/</loc>
+    <loc>https://lehmaning.github.io/blog/posts/fish-tips/</loc>
     <lastmod>2023-12-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://lehmaning.github.io/blog/posts/</loc>
     <lastmod>2023-12-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/shell/</loc>
+    <loc>https://lehmaning.github.io/blog/tags/shell/</loc>
     <lastmod>2023-12-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://lehmaning.github.io/blog/tags/</loc>
     <lastmod>2023-12-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/tips/</loc>
+    <loc>https://lehmaning.github.io/blog/tags/tips/</loc>
     <lastmod>2023-12-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/world-fuck/</loc>
+    <loc>https://lehmaning.github.io/blog/posts/world-fuck/</loc>
     <lastmod>2023-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/world-fucker/</loc>
+    <loc>https://lehmaning.github.io/blog/authors/world-fucker/</loc>
     <lastmod>2023-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://lehmaning.github.io/blog/categories/</loc>
   </url><url>
-    <loc>/authors/lehmaning/</loc>
+    <loc>https://lehmaning.github.io/blog/authors/lehmaning/</loc>
   </url><url>
-    <loc>/series/</loc>
+    <loc>https://lehmaning.github.io/blog/series/</loc>
   </url>
 </urlset>
