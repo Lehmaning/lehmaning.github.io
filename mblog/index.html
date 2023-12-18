@@ -38,7 +38,9 @@
   onload="this.media='all';this.onload=null" crossorigin>
 <script defer src="https://gcore.jsdelivr.net/gh/highlightjs/cdn-release@11.4.0/build/highlight.min.js"
    crossorigin></script>
-  <script defer src="https://gcore.jsdelivr.net/gh/highlightjs/cdn-release@11.4.0/build/languages/dart.min.js"
+  <script defer src="https://gcore.jsdelivr.net/gh/highlightjs/cdn-release@11.4.0/build/languages/shell.min.js"
+     crossorigin></script>
+  <script defer src="https://gcore.jsdelivr.net/gh/highlightjs/cdn-release@11.4.0/build/languages/bash.min.js"
      crossorigin></script>
   <script defer src="https://gcore.jsdelivr.net/gh/highlightjs/cdn-release@11.4.0/build/languages/python.min.js"
      crossorigin></script>
@@ -47,8 +49,6 @@
   <script defer src="https://gcore.jsdelivr.net/gh/highlightjs/cdn-release@11.4.0/build/languages/go.min.js"
      crossorigin></script>
   <script defer src="https://gcore.jsdelivr.net/gh/highlightjs/cdn-release@11.4.0/build/languages/rust.min.js"
-     crossorigin></script>
-  <script defer src="https://gcore.jsdelivr.net/gh/highlightjs/cdn-release@11.4.0/build/languages/html.min.js"
      crossorigin></script>
   <script defer src="https://gcore.jsdelivr.net/gh/highlightjs/cdn-release@11.4.0/build/languages/css.min.js"
      crossorigin></script>
@@ -101,6 +101,12 @@
     "itemListElement":[{
             "@type":"ListItem",
             "position":  1 ,
+            "name": "利用 nushell 命令在 hugo 中创建微博",
+            "description": "hugo new $\u0026quot;content/mblog/(date now | format date '%Y-%m-%d-%H%M%S').md\u0026quot;",
+            "url": "https://lehmaning.github.io/mblog/2023-12-18-124142/"
+        },{
+            "@type":"ListItem",
+            "position":  2 ,
             "name": "第一条微博哦",
             "description": "好像用来发布微博并不是很方便。",
             "url": "https://lehmaning.github.io/mblog/2023-12-18-031325/"
@@ -138,7 +144,7 @@
 
 
 
-<meta property="og:updated_time" content="2023-12-18T03:13:25&#43;08:00" />
+<meta property="og:updated_time" content="2023-12-18T05:41:43&#43;01:00" />
 
 
 
@@ -231,20 +237,88 @@
   
   <div class="py-6">
     <div class="flex flex-col-reverse lg:flex-row justify-between">
-   <div class="py-2">
+   <div class="py-1">
   
-    <div class="my-8 flex flex-col items-center md:flex-row">
-      <a href="https://lehmaning.github.io/authors/lain/" class="md:me-4 text-primary-text h-24 w-24">
-        
-        
-          <img
-            src="https://gcore.jsdelivr.net/gh/Lehmaning/static@master/image/lain/lain-smile-sunset.png"
-            class="bg-primary-bg w-full rounded-full"
-            alt="Avatar"
-          />
-        
-      </a>
-    </div>
+  <div class="flex flex-col items-center md:flex-col md:me-4 my-4">
+    <a href="https://lehmaning.github.io/authors/lehmaning/" class="text-primary-text w-24">
+       
+      <img
+        src="https://gcore.jsdelivr.net/gh/Lehmaning/static@master/image/krita/krita-2.jpg"
+        class="bg-primary-bg w-full rounded-full"
+        alt="Avatar"
+      />
+      
+    </a>
+    <a
+      href="https://lehmaning.github.io/authors/lehmaning/"
+      class="text-lg"
+    >
+      <h3>Lehmaning</h3>
+    </a>
+  </div>
+  
+</div>
+  
+  <div class="w-full ">
+    <div class="prose">
+  <a href="https://lehmaning.github.io/mblog/2023-12-18-124142/" class="no-underline">
+    <h3 class="mt-0">利用 nushell 命令在 hugo 中创建微博</h3>
+  </a>
+  
+    hugo new $&#34;content/mblog/(date now | format date &#39;%Y-%m-%d-%H%M%S&#39;).md&#34;
+  
+
+  
+    <div
+  class="text-tertiary-text not-prose mt-2 flex flex-row flex-wrap items-center"
+>
+  <div class="me-6 my-2">
+    <i class="fas fa-calendar me-1"></i>
+    <span
+      >2023-12-18</span
+    >
+  </div>
+  <div class="me-6 my-2">
+    <i class="fas fa-clock me-1"></i>
+    <span>1 min read</span>
+  </div>
+
+  
+
+  
+</div>
+
+  
+</div>
+
+  </div>
+
+  
+</div>
+
+  </div>
+  
+  <div class="py-6">
+    <div class="flex flex-col-reverse lg:flex-row justify-between">
+   <div class="py-1">
+  
+  <div class="flex flex-col items-center md:flex-col md:me-4 my-4">
+    <a href="https://lehmaning.github.io/authors/lain/" class="text-primary-text w-24">
+       
+      <img
+        src="https://gcore.jsdelivr.net/gh/Lehmaning/static@master/image/lain/lain-smile-sunset.png"
+        class="bg-primary-bg w-full rounded-full"
+        alt="Avatar"
+      />
+      
+    </a>
+    <a
+      href="https://lehmaning.github.io/authors/lain/"
+      class="text-lg"
+    >
+      <h3>Lain</h3>
+    </a>
+  </div>
   
 </div>
   
