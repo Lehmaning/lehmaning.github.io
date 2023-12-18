@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Running on Empty</title>
-    <link>https://lehmaning.github.io/</link>
+    <link>/</link>
     <description>Recent content on Running on Empty</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; &lt;a href=&#34;https://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;CC-BY-NC-SA 4.0&lt;/a&gt; 2023 Lehmaning
 </copyright>
     <lastBuildDate>Mon, 18 Dec 2023 12:57:22 +0800</lastBuildDate>
-    <atom:link href="https://lehmaning.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>好麻烦这样</title>
-      <link>https://lehmaning.github.io/mblog/2023-12-18-125721/</link>
+      <link>/mblog/2023-12-18-125721/</link>
       <pubDate>Mon, 18 Dec 2023 12:57:22 +0800</pubDate>
-      <guid>https://lehmaning.github.io/mblog/2023-12-18-125721/</guid>
+      <guid>/mblog/2023-12-18-125721/</guid>
       <description>还得写标题 还得手动生成 还得手动push 能不能自动化</description>
     </item>
     <item>
       <title>利用 nushell 命令在 hugo 中创建微博</title>
-      <link>https://lehmaning.github.io/mblog/2023-12-18-124142/</link>
+      <link>/mblog/2023-12-18-124142/</link>
       <pubDate>Mon, 18 Dec 2023 05:41:43 +0100</pubDate>
-      <guid>https://lehmaning.github.io/mblog/2023-12-18-124142/</guid>
+      <guid>/mblog/2023-12-18-124142/</guid>
       <description>hugo new $&amp;quot;content/mblog/(date now | format date &#39;%Y-%m-%d-%H%M%S&#39;).md&amp;quot;</description>
     </item>
     <item>
       <title>第一条微博哦</title>
-      <link>https://lehmaning.github.io/mblog/2023-12-18-031325/</link>
+      <link>/mblog/2023-12-18-031325/</link>
       <pubDate>Mon, 18 Dec 2023 03:13:25 +0800</pubDate>
-      <guid>https://lehmaning.github.io/mblog/2023-12-18-031325/</guid>
+      <guid>/mblog/2023-12-18-031325/</guid>
       <description>好像用来发布微博并不是很方便。</description>
     </item>
     <item>
       <title>fish shell 的一些注意事项</title>
-      <link>https://lehmaning.github.io/posts/fish-tips/</link>
+      <link>/posts/fish-tips/</link>
       <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://lehmaning.github.io/posts/fish-tips/</guid>
+      <guid>/posts/fish-tips/</guid>
       <description>以下内容适用于 fish 3.6.4 版本。 集成工具 集成 starship 、zoxide、carapace、nvm 等工具时，不建议直接写在 ~/.config/fish/config.fish 下，要用到模块化的思想！ 按习惯，我会在 ~/.config/fish/conf.d 下创建</description>
     </item>
     <item>
       <title>Fuck You World!</title>
-      <link>https://lehmaning.github.io/posts/world-fuck/</link>
+      <link>/posts/world-fuck/</link>
       <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://lehmaning.github.io/posts/world-fuck/</guid>
+      <guid>/posts/world-fuck/</guid>
       <description>A sincere greeting to our world! Yes fuck you, fuck you all!</description>
     </item>
   </channel>
