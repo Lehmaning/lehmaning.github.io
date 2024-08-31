@@ -1,0 +1,11 @@
+User-agent: *
+
+Disallow: /zh/mblog/
+
+Disallow: /en/mblog/
+
+Disallow: /en/tips/
+
+Disallow: /zh/tips/
+
+Sitemap: https://blog.grass.eu.org/sitemap.xml
